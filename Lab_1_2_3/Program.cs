@@ -14,7 +14,7 @@ namespace Lab_1_2_3
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             await Task.Run(() => Application.Run(new Lab_1()));
-            await Task.Run(() => Application.Run (new Lab_2()));
+            await Task.Run(() => Application.Run(new Lab_2()));
             await Task.Run(() => Application.Run(new Lab_3()));
         }
     }
