@@ -53,7 +53,7 @@ namespace Lab_1_2_3
         }
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
         private void Lab_3_Load(object sender, EventArgs e)
         {
